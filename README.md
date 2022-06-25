@@ -1,7 +1,7 @@
 # atviv-wb-typescript
 Lista 4
 ## Como rodar a aplicação
-- Clone o repositorio git com `git clone https://github.com/Grupo-VPN/atviv-wb-typescript`
+- Clone o repositorio git com `git clone https://github.com/grupo-LTP/atviv-wb-typescript.git`
 - Entre na pasta utilizando `cd atviv-wb-typescript`
 - Siga o passo a passo para iniciar o Backend e Front
   - Backend e Frontend tem que estar rodando para funcionar a aplicação corretamente 
