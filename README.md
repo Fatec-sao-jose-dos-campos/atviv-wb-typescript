@@ -1,5 +1,13 @@
 # atviv-wb-typescript
 Lista 4
+
+|Alunos|Nome|
+|:---:|:---:|
+|1|Lucas Braz Dias
+|2|Tais Gomes Salomão
+|3|Priscila Aparecida Silva
+
+
 ## Como rodar a aplicação
 - Clone o repositorio git com `git clone https://github.com/grupo-LTP/atviv-wb-typescript.git`
 - Entre na pasta utilizando `cd atviv-wb-typescript`
